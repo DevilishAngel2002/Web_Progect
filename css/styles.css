@@ -1,0 +1,21 @@
+p{
+
+	color: green;
+
+}
+
+#server-side-intro{
+	color: blue;
+	font-size: 20px;
+}
+
+.my-brand{
+	font-size: 18px;
+	font-style: italics;
+	text-transform: lowercase;
+	color: red;
+}
+
+/*
+This is a comment
+*/
